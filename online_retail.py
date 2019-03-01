@@ -8,7 +8,7 @@ import pandas.io.sql as psql
 import scipy.spatial as sp
 import time
 
-# test
+
 # データベースへ接続
 con = pymysql.connect(
     host='datamix-school-material.csbsmnjyxb52.ap-northeast-1.rds.amazonaws.com',
