@@ -1,2 +1,2 @@
 # SchoolProjects
-Homework from DataMix
+データサイエンスの学習
