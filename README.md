@@ -1,4 +1,4 @@
-# SchoolProjects
+# StudyCode
 データサイエンスの学習
 
 ### 1.レコメンデーションエンジンの実装
